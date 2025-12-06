@@ -51,7 +51,7 @@ Footwear/apparel categories were most affected by delays.
 Over 50% of all deliveries were late → major operational problem.
 
 
-![Bar Chart](./Predictive-Analysis-model-to-solve-DataCo-Global-s-delivery-delay-issues./Bar graph.png)
+![Bar Chart](./Project1/Bar graph.png)
 
 # Proposed Solutions
 
