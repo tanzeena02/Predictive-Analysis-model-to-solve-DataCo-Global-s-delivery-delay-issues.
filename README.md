@@ -53,6 +53,8 @@ Over 50% of all deliveries were late → major operational problem.
 
 ![Top 10 products with late deliveries](./images/Bargraph.png)
 
+![Random Forest](./images/Randomforest.png)
+
 # Proposed Solutions
 
 Offer premium (First-Class) shipping options for improved on-time performance.
