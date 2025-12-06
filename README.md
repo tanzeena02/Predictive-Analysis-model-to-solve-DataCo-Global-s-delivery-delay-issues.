@@ -4,9 +4,11 @@
 
 # I developed a machine learning model for my master's course in Business Intelligence to predict delivery delays for DataCo Global. Built a machine learning classification model to predict late deliveries for DataCo Global using Python. Conducted data cleaning, normalization, EDA, and correlation analysis to identify key delay factors. Implemented Logistic Regression and Random Forest models, achieving high accuracy but indicating overfitting and the need for regularization. Insights revealed that shipment mode and product category were major contributors to delays. Recommended operational strategies—including premium shipping, inventory optimization, and ERP-integrated delay alerts—to improve supply chain efficiency and reduce late deliveries.
 
-# Business Problem: DataCo Global was experiencing high delivery delay rates (54%), resulting in customer dissatisfaction, order cancellations, and lost sales. The company needed a way to predict late deliveries before they occurred and understand the key factors contributing to delays.
+# Business Problem: 
+DataCo Global was experiencing high delivery delay rates (54%), resulting in customer dissatisfaction, order cancellations, and lost sales. The company needed a way to predict late deliveries before they occurred and understand the key factors contributing to delays.
 
-# Objective: Build a machine learning model to classify whether an order will be on-time or late, and generate data-driven recommendations to improve supply chain efficiency.
+# Objective: 
+Build a machine learning model to classify whether an order will be on-time or late, and generate data-driven recommendations to improve supply chain efficiency.
 
 # Data Overview
 Source: Kaggle DataCo Supply Chain dataset
