@@ -50,6 +50,8 @@ Footwear/apparel categories were most affected by delays.
 
 Over 50% of all deliveries were late → major operational problem.
 
+## Top 10 products with late delivery ![](Images/Bar graph.png)
+
 # Proposed Solutions
 
 Offer premium (First-Class) shipping options for improved on-time performance.
