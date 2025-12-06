@@ -53,7 +53,7 @@ Over 50% of all deliveries were late → major operational problem.
 
 ![Top 10 products with late deliveries](./images/Bargraph.png)
 
-![Random Forest](./images/Randomforest.png)
+![Random Forest Analysis](./images/Randomforest.png)
 
 # Proposed Solutions
 
