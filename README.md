@@ -57,7 +57,7 @@ Over 50% of all deliveries were late → major operational problem.
 
 ![Correlation](./images/Correlation.png)
 
-# Our findings from correlation are: Shipment Mode, type of products, and delivery status has the highest impacts on late delivery
+## Our findings from correlation are: Shipment Mode, type of products, and delivery status has the highest impacts on late delivery
 
 
 # Proposed Solutions
